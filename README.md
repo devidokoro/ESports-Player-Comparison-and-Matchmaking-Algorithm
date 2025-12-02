@@ -1,1 +1,1 @@
-# ESports-Player-Comparison-and-Matchmaking-Algorithm
+Created a program that takes input for a user's CS2 statistics and compares them with professional players' statistics. These statistics include FACEIT elo, total lifetime kills, and total lifetime games. The program accepts these inputs and calculates the user's average kills per game. Created a matchmaking algorithm that utilizes the user's input statistics and matches them up with 4 other teammates against 5 opponents, whose collective team elo is similar to the user's collective team elo.
